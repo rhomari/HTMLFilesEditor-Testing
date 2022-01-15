@@ -1,0 +1,15 @@
+{
+  "name": "htmlfileseditor",
+  "version": "1.0.0",
+  "description": "Filemanager",
+  "main": "filemanger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "ssl-serve --ssl"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ssl-serve": "^6.5.8"
+  }
+}
