@@ -1,2 +1,1 @@
-# HTMLFilesEditor-Testing
-#Run npm install 
+Run "npm install" when on folder
